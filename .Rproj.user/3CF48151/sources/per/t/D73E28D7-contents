@@ -1,0 +1,11 @@
+Package: WheresCrocEval
+Type: Package
+Title: Evaluation package for the Where's Croc game
+Version: 0.1.0
+Author: Mike Ashcroft
+Maintainer: Mike Ashcroft <michael.ashcroft@it.uu.se>
+Description: Evaluation package for the Where's Croc project in the AI course at Uppsala University.
+Depends: WheresCroc
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

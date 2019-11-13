@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535538600479.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "506712981",
+    "id" : "B727F1DA",
+    "lastKnownWriteTime" : 1535539131,
+    "last_content_update" : 1535539131997,
+    "path" : "~/My R Packages/AI Course/WheresCrocEval/R/WC_Evaluation.R",
+    "project_path" : "R/WC_Evaluation.R",
+    "properties" : {
+        "cursorPosition" : "126,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
